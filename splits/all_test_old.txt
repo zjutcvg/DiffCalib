@@ -1,0 +1,12 @@
+Waymo Waymo_test_segment-17065833287841703_2980_000_3000_000_with_camera_labels 083020
+Waymo Waymo_test_segment-17065833287841703_2980_000_3000_000_with_camera_labels 083060
+RGBD rgbd_test rgbd_dataset_freiburg1_desk-0000000_10_to_20_v0
+RGBD rgbd_test rgbd_dataset_freiburg1_desk-0000000_10_to_20_v1
+ScanNet scene0707_00 0000000015
+ScanNet scene0707_00 0000000150
+MVS mvs_test armchair_0_v0
+MVS mvs_test armchair_0_v1
+Scenes11 scenes11_test 2000063_v0
+Scenes11 scenes11_test 2000078_v1
+SUN3D sun3d_test brown_cogsci_2.brown_cogsci_2-0000300_5to10cm_v0
+SUN3D sun3d_test brown_cogsci_2.brown_cogsci_2-0000300_5to10cm_v1

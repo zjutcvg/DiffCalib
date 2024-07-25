@@ -1,0 +1,12 @@
+Waymo Waymo_test_segment-17065833287841703_2980_000_3000_000_with_camera_labels 083020
+Waymo Waymo_test_segment-17065833287841703_2980_000_3000_000_with_camera_labels 083060
+Waymo Waymo_test_segment-1105338229944737854_1280_000_1300_000_with_camera_labels 013020
+Waymo Waymo_test_segment-2335854536382166371_2709_426_2729_426_with_camera_labels 111080
+ScanNet scene0707_00 0000000015
+ScanNet scene0707_00 0000000150
+ScanNet scene0716_00 0000000105
+ScanNet scene0721_00 0000001665
+MVS mvs_test armchair_0_v0
+MVS mvs_test armchair_0_v1
+MVS mvs_test gerrard-hall_12_v1
+MVS mvs_test person-hall_32_v1
