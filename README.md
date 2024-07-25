@@ -5,12 +5,12 @@
 
 ### [arXiv](https://arxiv.org/abs/2405.15619)
 
-#### 🔥 Fine-tune diffusion models for camera intrinsic estimation and depth estimation simultaneously ! ✈️
+#### 🔥 Fine-tune diffusion models for camera intrinsic estimation and depth estimation simultaneously! ✈️
 
 </div>
 
 <div align="center">
-<img width="800" alt="image" src="figs/pipeline.pdf">
+<img width="800" alt="image" src="figs/pipeline.jpg">
 </div>
 
 
@@ -35,16 +35,16 @@ Download the intrinsic data from [MonoCalib](https://github.com/ShngJZ/WildCamer
 ## 🚀 Evaluation
 First, Download the [stable-diffusion-2-1](download_stable-diffusion-2-1.py) and transform it to the 8 inchannels from [modify](load_ckpt_and_modify_8in.py) which will be put in --checkpoint, put the checkpoints under ```./checkpoint/```
 
-Then, Download the pre-trained models ```diffcalib-best.zip``` from [BaiduNetDisk](https://pan.baidu.com/s/1n6FlqrOTZqHX-F6OhcvNyA?pwd=g2cm) (Extract code: g2cm). Please unzip the package and put the checkpoints under ```./checkpoint/``` which will be put in --unet_ckpt_path.
+Then, Download the pre-trained models ```diffcalib-best.zip``` from [BaiduNetDisk](https://pan.baidu.com/s/1o2oVMiLRu770Fdpa65Pdbw?pwd=g3yi) (Extract code: g3yi). Please unzip the package and put the checkpoints under ```./checkpoint/``` which will be put in --unet_ckpt_path.
 
-finally, 
+finally, you can run the bash to evaluate our model in the benchmark.
 ```bash
 sh scripts/run_incidence_mutidata.sh
 ```
 
-
+## 🚀 visualization and 3D reconstruction
 For depth and incident map visualization
-, download shift model from [res101](https://pan.baidu.com/s/1o2oVMiLRu770Fdpa65Pdbw?pwd=g3yi) (Extract code: g3yi), ```diffcalib-best.zip``` from [BaiduNetDisk](https://pan.baidu.com/s/1n6FlqrOTZqHX-F6OhcvNyA?pwd=g2cm) (Extract code: g2cm) and install torchsparse packages as follows
+, download shift model from [res101](https://pan.baidu.com/s/1o2oVMiLRu770Fdpa65Pdbw?pwd=g3yi) (Extract code: g3yi), ```diffcalib-best.zip``` from [BaiduNetDisk](https://pan.baidu.com/s/1o2oVMiLRu770Fdpa65Pdbw?pwd=g3yi) (Extract code: g3yi) and install torchsparse packages as follows
 ```bash
 sudo apt-get install libsparsehash-dev
 pip install --upgrade git+https://github.com/mit-han-lab/torchsparse.git@v1.2.0
@@ -63,13 +63,13 @@ bash scripts/run_incidence_depth_pcd.sh
 ### point cloud
 
 <div align="center">
-<img width="800" alt="image" src="figs/point_cloud.pdf">
+<img width="800" alt="image" src="figs/point_cloud.png">
 </div>
 
 ### depth and incident map visualization
 
 <div align="center">
-<img width="800" alt="image" src="figs/visualization.pdf">
+<img width="800" alt="image" src="figs/visualization.png">
 </div>
 
 
