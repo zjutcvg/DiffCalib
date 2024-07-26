@@ -44,7 +44,7 @@ sh scripts/run_incidence_mutidata.sh
 
 ## 🚀 visualization and 3D reconstruction
 For depth and incident map visualization
-, download shift model from [res101](https://pan.baidu.com/s/1o2oVMiLRu770Fdpa65Pdbw?pwd=g3yi) (Extract code: g3yi), ```diffcalib-pcd.zip``` from [BaiduNetDisk](链接：https://pan.baidu.com/s/12M2PEqqExGM9vKtMF2mHYg?pwd=4sy1)(Extract code:4sy1) and install torchsparse packages as follows
+, download shift model from [res101](https://pan.baidu.com/s/1o2oVMiLRu770Fdpa65Pdbw?pwd=g3yi) (Extract code: g3yi), ```diffcalib-pcd.zip``` from [BaiduNetDisk](https://pan.baidu.com/s/12M2PEqqExGM9vKtMF2mHYg?pwd=4sy1)(Extract code:4sy1) and install torchsparse packages as follows
 ```bash
 sudo apt-get install libsparsehash-dev
 pip install --upgrade git+https://github.com/mit-han-lab/torchsparse.git@v1.2.0
