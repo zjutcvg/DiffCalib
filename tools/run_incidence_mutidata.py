@@ -302,7 +302,7 @@ if "__main__" == __name__:
             for id, data_name in enumerate(tqdm(data_names, desc="Estimating {}".format(args.mode), leave=True)):
                 # load hdf5 24.2.14
                 scene_name, stem_name = data_name.split(' ')
-                h5pypath = os.path.join('/mnt/nas/share/home/xugk/hxk/code/marigold/data/MonoCalib', datasetname, '{}.hdf5'.format(scene_name))
+                h5pypath = os.path.join('./data/MonoCalib', datasetname, '{}.hdf5'.format(scene_name))
 
                 if not os.path.exists(h5pypath):
                     print("H5 file %s missing" % h5pypath)
