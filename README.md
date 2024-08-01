@@ -72,6 +72,9 @@ bash scripts/run_incidence_depth_pcd.sh
 <img width="800" alt="image" src="figs/visualization.png">
 </div>
 
+## 🎫 License
+
+For non-commercial use, this code is released under the [LICENSE](LICENSE).
 
 ## 🎓 Citation
 ```
