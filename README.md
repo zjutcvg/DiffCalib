@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation </h1>
+<h1> DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation (AAAI25 Oral)</h1>
 
 
 ### [arXiv](https://arxiv.org/abs/2405.15619)
@@ -15,6 +15,7 @@
 
 
 ##  📢 News
+- 2025.2.15:  Congratulations! DiffCalib has been accepted as an oral presentation at AAAI 2025.
 - 2024.7.25:  Release inference code and checkpoint weight of Diffcalib in the repo.
 - 2024.7.25: Release [arXiv paper](https://arxiv.org/abs/2405.15619), with supplementary material.
 
