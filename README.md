@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation (AAAI25 Oral)</h1>
+<h1> [AAAI25 Oral] DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation</h1>
 
 
 ### [arXiv](https://arxiv.org/abs/2405.15619)
