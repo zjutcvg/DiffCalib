@@ -83,10 +83,10 @@ For non-commercial use, this code is released under the [LICENSE](LICENSE).
 	volume={39},
 	DOI={10.1609/aaai.v39i3.32355},  
 	number={3},
-	 journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-	 author={He, Xiankang and Xu, Guangkai and Zhang, Bo and Chen, Hao and Cui, Ying and Guo, Dongyan}, 
-	 year={2025}, 
-	 month={Apr.}, 
-	 pages={3428-3436}
+	journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+	author={He, Xiankang and Xu, Guangkai and Zhang, Bo and Chen, Hao and Cui, Ying and Guo, Dongyan}, 
+	year={2025}, 
+	month={Apr.}, 
+	pages={3428-3436}
 }
 ```
