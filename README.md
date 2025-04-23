@@ -13,6 +13,7 @@
 
 
 ##  📢 News
+- 2025.4.23: DiffCalib has been published at [Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/32355).
 - 2025.2.15:  Congratulations! DiffCalib has been accepted as an oral presentation at AAAI 2025. AAAI 2025 received a total of 12,957 valid submissions, with 3,032 papers accepted, resulting in an acceptance rate of 23.4%. Among these, Oral papers accounted for 4.6%.
 - 2024.7.25:  Release inference code and checkpoint weight of Diffcalib in the repo.
 - 2024.7.25: Release [arXiv paper](https://arxiv.org/abs/2405.15619), with supplementary material.
