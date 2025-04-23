@@ -3,8 +3,6 @@
 <h1> [AAAI25 Oral] DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation</h1>
 
 
-### [arXiv](https://arxiv.org/abs/2405.15619)
-
 #### 🔥 Fine-tune diffusion models for camera intrinsic estimation and depth estimation simultaneously! ✈️
 
 </div>
@@ -79,10 +77,16 @@ For non-commercial use, this code is released under the [LICENSE](LICENSE).
 
 ## 🎓 Citation
 ```
-@article{he2024diffcalib,
-  title   = {DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation},
-  author  = {Xiankang He and Guangkai Xu and Bo Zhang and Hao Chen and Ying Cui and Dongyan Guo},
-  year    = {2024},
-  journal = {arXiv preprint arXiv: 2405.15619}
+@article{
+	He_Xu_Zhang_Chen_Cui_Guo_2025, 
+	title={DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation}, 
+	volume={39},
+	DOI={10.1609/aaai.v39i3.32355},  
+	number={3},
+	 journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+	 author={He, Xiankang and Xu, Guangkai and Zhang, Bo and Chen, Hao and Cui, Ying and Guo, Dongyan}, 
+	 year={2025}, 
+	 month={Apr.}, 
+	 pages={3428-3436}
 }
 ```
